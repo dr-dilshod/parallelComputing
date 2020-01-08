@@ -1,2 +1,2 @@
-* Parallel Ishlatish Bu yerda: https://github.com/dr-dilshod/parallelComputing/blob/master/src/main/java/uz/ubtuit/se/concurrent/ServiceOrchestrationConcurrentRunnable.java
-* Servicelarni chaqirish bu yerda: https://github.com/dr-dilshod/parallelComputing/blob/master/src/test/java/uz/ubtuit/se/parallelcomputing/ServiceInvocation.java
+1. Servicelarni chaqirish bu yerda: https://github.com/dr-dilshod/parallelComputing/blob/master/src/test/java/uz/ubtuit/se/parallelcomputing/ServiceInvocation.java 1 ta put metod bilan (bazaga ma'lumot yozish) va 1 ta get metod bilan (bazadan ma'lumot o'qish) bajarilgan.
+2. Parallel ishlatish bu yerda: https://github.com/dr-dilshod/parallelComputing/blob/master/src/main/java/uz/ubtuit/se/concurrent/ServiceOrchestrationConcurrentRunnable.java Bu yerda AplusB ikki marta parallel chaqirib ishlatilgan. AplusBni o'rniga 1. punktdan service chaqirish ishlatilsa bo'ladi.
